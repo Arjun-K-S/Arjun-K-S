@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on....actually many things like getting started with data science,improving coding skills and little app dev
 - 🌱 I’m currently learning many things
 - 👯 I’m looking to collaborate on generating reports
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with back-end dev,data science
 - 💬 Ask me about anything 😵
 - 📫 How to reach me: the below links
 - 😄 Pronouns: He/Him
