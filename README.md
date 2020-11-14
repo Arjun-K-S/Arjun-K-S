@@ -2,10 +2,10 @@
 ## The name's Arjun,I Command[computer]🙃.I’m shy, please come say hi
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/5270/screenshots/975617/meworking.gif" width=300>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/fb895727075137.5635f8ee187e2.gif" width=300>
 </p>  
 
-- 🔭 I’m currently working on....actually many things like getting started with data science,improving coding skills and litle app dev
+- 🔭 I’m currently working on....actually many things like getting started with data science,improving coding skills and little app dev
 - 🌱 I’m currently learning many things
 - 👯 I’m looking to collaborate on generating reports
 - 🤔 I’m looking for help with 
