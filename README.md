@@ -14,16 +14,16 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an introvert,loves rock,metal and preffer perros🐶 over gatos🐱
 
-##Skills and Experience:
--🐍 Python
--🐍 Anaconda
--📓 Jupyter Notebook
--🥾 Bootstrap
--🕸️ HTML
--🎨 CSS
--📟 C++
--📜 Java
--🎯 Dart
+## Skills and Experience:
+📌🐍 Python
+📌🐍 Anaconda
+📌📓 Jupyter Notebook
+📌🥾 Bootstrap
+📌🕸️ HTML
+📌🎨 CSS
+📌📟 C++
+📌📜 Java
+📌🎯 Dart
 <br />
 ### Get in touch
 
