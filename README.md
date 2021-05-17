@@ -23,7 +23,6 @@
 📌🎨 CSS
 📌📟 C++
 📌📜 Java
-📌🎯 Dart
 <br />
 ### Get in touch
 
