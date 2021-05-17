@@ -35,9 +35,10 @@
 
 ### My Stats
 
-<img align="left" alt="Arjun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Arjun-K-S&theme=vue&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="center" alt="Arjun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Arjun-K-S&show_icons=true&theme=radical " />
 
-<img align="center" alt="Xidhu's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-K-S&langs_count=8&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
+
+<img align="center" alt="Arjun's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-K-S&langs_count=8&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
 
 <br />
 <br />
