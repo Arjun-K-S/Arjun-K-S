@@ -1,11 +1,7 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-<div align="center">
-<img src="https://media.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" align="center" style="width: 100%" />
-</div>  
-  
+<p align="center"><img src="https://raw.githubusercontent.com/AdityaKumar28/AdityaKumar28/main/animation.gif" width="35%"></p>
+<div style=" font-size: medium; color: #447ff7" align=center>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Arjun+K+S+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;" alt="Aditya Kumar" width="650" height="55">
 
 ### **<div align="center">The name's Arjun,I Command[computer]🙃.I’m shy, please come say hi.</div>**  
   
@@ -86,19 +82,20 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arjun-k-s&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p align="left"> <img alt="Arjun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Arjun-K-S&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-k-s&hide_border=true&layout=compact" align="left" />  
+<br/>
 
-<br/>  
+<p align="left"> <img alt="Arjun's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-K-S&langs_count=8&layout=compact&hide=html%22&hide_border=true&theme=github_dark" />
 
-
- 
+<br />
+<br /> 
   
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=5jcgp7hq3qes7f4v7ffv9vu2k&cover_image=true&theme=default&show_offline=false" /></div>  
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/5jcgp7hq3qes7f4v7ffv9vu2k)
+<br/>
 
 <br/>  
 
@@ -106,7 +103,7 @@
 
 <br/>  
 
-<div align="center">
+<div align="left">
             <a href="https://paypal.me/arjunksivadas" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
@@ -115,4 +112,5 @@
             </a></div>
 <br />
 
----
+----
+<div align="center"></a></div>
