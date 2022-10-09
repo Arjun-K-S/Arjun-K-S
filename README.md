@@ -3,6 +3,10 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Arjun+K+S+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;" alt="Aditya Kumar" width="650" height="55">
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
 ### **<div align="center">The name's Arjun,I Command[computer]🙃.I’m shy, please come say hi.</div>**  
   
 
@@ -19,6 +23,9 @@
   
 
 <br/>  
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 
 ## My Skill Set  
@@ -68,6 +75,9 @@
 
 <br/>  
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br> 
 
 ## Connect with me  
 <a href="https://linkedin.com/in/arjun-sivadas" target="_blank">
@@ -80,6 +90,9 @@
 
 <br/>  
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 ## Github Stats  
 <p align="left"> <img alt="Arjun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Arjun-K-S&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
@@ -93,6 +106,9 @@
   
 
 <br/>  
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/5jcgp7hq3qes7f4v7ffv9vu2k)
 <br/>
@@ -100,6 +116,9 @@
 <br/>  
 
   
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 <br/>  
 
