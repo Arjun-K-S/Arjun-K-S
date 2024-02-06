@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on something cool<br><br>🌱 I’m currently learning K8s and Go.<br><br>❓Ask me about Real World Problems<br><br>💬 Ask me about troubleshooting, AI, DevOps<br><br>⚡ Fun fact I ❤️ cooking, stargazing and 🐶s
+🔭 I’m currently working on something cool<br><br>🌱 I’m currently learning K8s and Go.<br><br>❓Ask me about Real World Problems, troubleshooting, AI, DevOps<br><br>⚡ Fun fact I ❤️ cooking, stargazing and 🐶s
 
 
 ## 🌐 Socials:
